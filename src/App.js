@@ -7,7 +7,8 @@ import Row from "./components/Row";
 import Column from "./components/Column";
 import Description from "./components/Description/Description";
 import friends from "./friends.json";
-import "./App.css";
+// import header from "../public/header_logo.png";
+// import "./App.css";
 
  const shuffle = array => {
   for (let i = array.length - 1; i > 0; i--) {
